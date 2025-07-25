@@ -1,0 +1,37 @@
+.verify {
+    min-height: 60vh;
+    display: grid;
+}
+
+.verify .spinner {
+    width: 100px;
+    height: 100px;
+    place-self: center; /* Corrected spelling */
+    border: 5px solid #bdbdbd;
+    border-top-color: tomato;
+    border-radius: 50%;
+    animation: rotate 1s infinite linear; /* Added linear to smooth rotation */
+}
+
+@keyframes rotate {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Optional: Add vendor prefixes for better browser support */
+@-webkit-keyframes rotate {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+@-moz-keyframes rotate {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+@-o-keyframes rotate {
+    100% {
+        -o-transform: rotate(360deg);
+    }
+}
