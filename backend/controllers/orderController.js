@@ -9,7 +9,7 @@ const stripe = new Stripe({
 //placing user order for frontend
 const placeOrder = async (req,res) =>{
 // console.log("Stripe Key Loaded in Controller:", process.env.STRIPE_SECRET_KEY);
-  const frontend_url = "http://localhost:5173";
+  const frontend_url = "https://mealmate-1-frontend1.onrender.com";
 
     try {
         const newOrder = new orderModel({
