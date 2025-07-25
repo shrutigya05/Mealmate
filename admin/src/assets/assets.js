@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = "https://mealmate-1-backend.onrender.com"
+export const url ='https://mealmate-1-backend.onrender.com'
