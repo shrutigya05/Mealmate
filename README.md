@@ -49,8 +49,7 @@ Other Tools
 ![Midimage](https://github.com/user-attachments/assets/18e6046d-2a9c-424d-ac08-64743de6d1ae)
 
 3. Food Item Cards
-
-![Midimage](https://github.com/user-attachments/assets/26d359a9-736a-4677-b21c-fc99e45ff44a)
+![midimage2](https://github.com/user-attachments/assets/1a07bac7-b355-4abc-b994-607ee57fb145)
 
 4. Cart Page
 
