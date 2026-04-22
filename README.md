@@ -3,7 +3,8 @@
 MealMate is a full-stack food ordering platform where users can browse menu items, add items to their cart, and place orders. Admins can manage the menu and track orders in real-time.
 
 🚀 Live Demo
-🔗 Frontend (User App): https://mealmate-1-frontend1.onrender.com/  
+🔗 Frontend (User App):https://mealmate-04.onrender.com
+Admin:https://mealmate-02.onrender.com
 
 🛠️ Tech Stack
 Frontend
